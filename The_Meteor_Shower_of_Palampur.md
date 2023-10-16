@@ -1,5 +1,5 @@
-I am giving you few keywords, you have to write a story based on those keywords, story should be exciting and philosphical
-meteor shower, ADHD,  paul sartre, chana barfi(Indian sweet dish), nothing exciting and appreciating it, backpain, PhD, pain, diary, palampur, attention span
+*Prompt: I am giving you a few keywords, you have to write a story based on those keywords, the story should be exciting and philosophical
+meteor shower, ADHD,  Paul Sartre, chana barfi(Indian sweet dish), nothing exciting and appreciating it, backpain, PhD, pain, diary, Palampur, attention span*
 
 
 ## 🌌 The Meteor Shower of Palampur
