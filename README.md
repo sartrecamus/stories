@@ -1,1 +1,1 @@
-# stories from Sarte & Camus
+# Stories from Sartre & Camus
